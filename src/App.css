@@ -58,11 +58,15 @@
   width:100%;
   padding-top:20vh;
   background-size: cover;
-  background-position: bottom;
+  background-position: center;
   background-repeat: no-repeat;
   background-attachment:fixed;
   font-size: 4rem;
   color:darkorange;
+  -webkit-text-stroke-width: 1px;
+ -webkit-text-stroke-color: darkorange;
+ -webkit-text-fill-color:rgba(0, 0, 0, 0.74);
+ font-family:fantasy;
   margin-top:-3%;
   contain:content;
 }
