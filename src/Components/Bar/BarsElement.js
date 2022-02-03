@@ -51,7 +51,7 @@ export const BarMenu = styled.ul`
     }
 `
 
-export const BarLink = styled(LinkS)`
+export const BarLink = styled(LinkR)`
     display:flex;
     align-items:center;
     justify-content:center;

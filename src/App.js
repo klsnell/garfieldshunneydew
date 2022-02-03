@@ -49,3 +49,4 @@ export default App;
 //?react-icons
 //?react-scroll
 //?react-responsive-carousel
+//?react-alice-carousel
