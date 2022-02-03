@@ -58,7 +58,7 @@ const Services = () => {
                     <CardText>Irrigation Spring Start-ups</CardText>
                     <CardText>Irrigation Winterization</CardText>
                     <CardText>New Irrigation System Installs</CardText>
-                    <CardImg className='cardimg' width='500vw' src={require('../assets/2021-08-29.jpg')} />
+                    <CardImg className='cardimg' width='500vw' src={require('../assets/23.jpg')} />
                 </CardBody>
                 <a href='#top'><FaAngleDoubleUp className='uparrow' /></a>
             </Card>
@@ -69,7 +69,7 @@ const Services = () => {
                     <CardText>Tree Trimming Above 8'</CardText>
                     <CardText>Selective Tree Removals</CardText>
                     <CardText>New Plant/Tree Installation</CardText>
-                    <CardImg className='cardimg' width='500vw' src={require('../assets/2021-06-06 (1).jpg')} />
+                    <CardImg className='cardimg' width='500vw' src={require('../assets/22.jpg')} />
                 </CardBody>
                 <a href='#top'><FaAngleDoubleUp className='uparrow' /></a>
             </Card>
@@ -86,7 +86,7 @@ const Services = () => {
                     <CardText>Roto-tilling Services</CardText>
                     <CardText>Field Cuts</CardText>
                     <CardText>Pre & Post Emergent Weed Spray</CardText>
-                    <CardImg className='cardimg' width='500vw' src={require('../assets/6405126740659594035.jpg')} />
+                    <CardImg className='cardimg' width='500vw' src={require('../assets/36.jpg')} />
                 </CardBody>
                 <a href='#top'><FaAngleDoubleUp className='uparrow' /></a>
             </Card>
@@ -100,7 +100,7 @@ const Services = () => {
                     <CardText>Flagstone Grouting Services</CardText>
                     <CardText>Gravel Installs</CardText>
                     <CardText>Border Edge Stone Installs</CardText>
-                    <CardImg className='cardimg' width='500vw' src={require('../assets/2021-06-06 (1).jpg')} />
+                    <CardImg className='cardimg' width='500vw' src={require('../assets/28.png')} />
                 </CardBody>
                 <a href='#top'><FaAngleDoubleUp className='uparrow' /></a>
             </Card>
