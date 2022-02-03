@@ -163,7 +163,7 @@ const Gallery = () => {
 
 
             <h2 className='galleryimgtitle'>Lawn Services</h2>
-            <Container className='gallerycontainer'>
+            <Container className='gallerycontainer1'>
                 {/* <Card className='galleryimgtitle'><h1>Lawn Services</h1></Card> */}
                 <Card>
                     <CardImg className='galleryimg'
