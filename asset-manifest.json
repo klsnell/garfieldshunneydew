@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/garfieldshunneydew/static/css/main.b131e6b2.css",
-    "main.js": "/garfieldshunneydew/static/js/main.3b111528.js",
+    "main.js": "/garfieldshunneydew/static/js/main.2678428f.js",
     "static/js/787.edd6239b.chunk.js": "/garfieldshunneydew/static/js/787.edd6239b.chunk.js",
     "static/media/open desert.jpg": "/garfieldshunneydew/static/media/open desert.ec8a9465cfb8dab39cf2.jpg",
     "static/media/Sperle.jpg": "/garfieldshunneydew/static/media/Sperle.c0d3b368df90b08e4955.jpg",
@@ -37,11 +37,11 @@
     "static/media/logo.jpg": "/garfieldshunneydew/static/media/logo.1be5c9eadbb296cc0924.jpg",
     "index.html": "/garfieldshunneydew/index.html",
     "main.b131e6b2.css.map": "/garfieldshunneydew/static/css/main.b131e6b2.css.map",
-    "main.3b111528.js.map": "/garfieldshunneydew/static/js/main.3b111528.js.map",
+    "main.2678428f.js.map": "/garfieldshunneydew/static/js/main.2678428f.js.map",
     "787.edd6239b.chunk.js.map": "/garfieldshunneydew/static/js/787.edd6239b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.b131e6b2.css",
-    "static/js/main.3b111528.js"
+    "static/js/main.2678428f.js"
   ]
 }
