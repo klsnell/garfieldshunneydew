@@ -16,7 +16,7 @@ const Estimate = () => {
             <Card className='estimatecard'>
                 <CardBody>
                     <CardTitle className='estimatetitle'>Request Your Free Estimate!</CardTitle>
-                    <CardText className='estimatetext2' id='estimaterequest'><a href='mailto:Garfieldslawnservice@cos.net'>Click Here to Message Us About Your Estimate.</a></CardText>
+                    <CardText className='estimatetext2' id='estimaterequest'><a href='mailto:Garfieldslawnservice@cox.net'>Click Here to Message Us About Your Estimate.</a></CardText>
                     <CardText className='estimatetext1'>In your message, please include:
                         <ul className='estimatelist'>
                             <li>First and last name</li>

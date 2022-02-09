@@ -55,12 +55,6 @@ const Home = () => {
                 <Contact/>
                 <Estimate/> */}
         </div>
-       
-        
-           
-           
-        
-      
     )
 }
 export default Home;

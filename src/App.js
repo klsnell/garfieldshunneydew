@@ -41,12 +41,4 @@ function App() {
 export default App;
 //!imports
 
-//?styled-components
-//?react-router-dom
-//?reactstrap
-//?react-grid-system
-//?pure-react-carousel
-//?react-icons
-//?react-scroll
-//?react-responsive-carousel
-//?react-alice-carousel
+//?styled-components react-router-dom reactstrap react-grid-system pure-react-carousel react-icons react-scroll react-responsive-carousel react-alice-carousel
