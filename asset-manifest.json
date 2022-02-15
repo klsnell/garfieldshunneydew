@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.83807b60.css",
+    "main.css": "/static/css/main.ffc483e4.css",
     "main.js": "/static/js/main.fff945a5.js",
     "static/js/787.edd6239b.chunk.js": "/static/js/787.edd6239b.chunk.js",
     "static/media/open desert.jpg": "/static/media/open desert.ec8a9465cfb8dab39cf2.jpg",
@@ -36,12 +36,12 @@
     "static/media/12.jpg": "/static/media/12.4f2b8854c8746a76f420.jpg",
     "static/media/logo.jpg": "/static/media/logo.1be5c9eadbb296cc0924.jpg",
     "index.html": "/index.html",
-    "main.83807b60.css.map": "/static/css/main.83807b60.css.map",
+    "main.ffc483e4.css.map": "/static/css/main.ffc483e4.css.map",
     "main.fff945a5.js.map": "/static/js/main.fff945a5.js.map",
     "787.edd6239b.chunk.js.map": "/static/js/787.edd6239b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.83807b60.css",
+    "static/css/main.ffc483e4.css",
     "static/js/main.fff945a5.js"
   ]
 }
