@@ -183,6 +183,48 @@ const Gallery = () => {
                     </CardImg>
                 </Card>
 
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/1-1.jpg')}>
+                    </CardImg>
+                </Card>
+
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/1-2.jpg')}>
+                    </CardImg>
+                </Card>
+
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/1-3.jpg')}>
+                    </CardImg>
+                </Card>
+
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/1-4.jpg')}>
+                    </CardImg>
+                </Card>
+
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/1-5.jpg')}>
+                    </CardImg>
+                </Card>
+
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/1-6.jpg')}>
+                    </CardImg>
+                </Card>
+
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/1-0.jpg')}>
+                    </CardImg>
+                </Card>
+
             </Container>
         </div>
     )
