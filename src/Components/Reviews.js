@@ -7,6 +7,20 @@ import { FaStar } from 'react-icons/fa';
 const handleDragStart = (e) => e.preventDefault();
 
 const items = [
+
+    <Card className='reviewcard'>
+        <CardBody>
+        <FaStar className='star' />
+            <FaStar className='star' />
+            <FaStar className='star' />
+            <FaStar className='star' />
+            <FaStar className='star' />
+            <br/>
+            <CardText className='reviewtext'>"I hire them every year to spray for weeds.This keeps my yard weed free the entire year. I also recently had them install artificial grass in the backyard. It turned out amazing. Really impressed with this company and their work."</CardText>
+            <CardTitle className='reviewname'>Yvonne A.</CardTitle>
+        </CardBody>
+    </Card>,
+
     <Card className='reviewcard'>
         <CardBody>
             <FaStar className='star' />
