@@ -63,7 +63,8 @@
   background-repeat: no-repeat;
   background-attachment:fixed;
   font-size: 4rem;
-  color:rgb(0, 0, 0, 0.74);
+  /* color:#ff8c00; */
+  color:rgba(0, 0, 0, 0.938);
   /* -webkit-text-stroke-width: 1px;
  -webkit-text-stroke-color: darkorange;
  -webkit-text-fill-color:rgba(0, 0, 0, 0.74); */
@@ -72,6 +73,7 @@
   margin-bottom:-1%;
   contain:content;
 }
+
 .aboutdiv{
   border-top:30px solid black;
 }
@@ -163,10 +165,12 @@
 .servicecard{
   border-top:10px solid darkorange;
   margin-top:5%;
+  contain:content;
 }
 .servicecard1{
   border-top:10px solid darkorange;
   margin-top:5%;
+  contain:content;
 }
 .cardtitle{
   font-size:3rem;
@@ -330,6 +334,7 @@
   width:100%;
   color:darkorange;
   border-top:4px solid black;
+  padding-top:9%;
   margin-top:30vh;
   margin-bottom:15vh;
   text-decoration: underline;

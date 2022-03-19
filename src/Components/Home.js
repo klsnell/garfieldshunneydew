@@ -23,6 +23,8 @@ const Home = () => {
         <div className='homediv'>
                 <h1 className='pagetitle' id='titlepicture'>Garfield's Hunney-Dew Lawn Service LLC</h1>
 
+               
+
                 <div className='aboutdiv'>
                     <Card>
                         
