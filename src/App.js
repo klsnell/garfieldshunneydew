@@ -1,6 +1,6 @@
 import './App.css';
 import React, { useState } from 'react';
-import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
+import {BrowserRouter as Router, Routes, Route, useHistory} from 'react-router-dom';
 import Navbar from './Components/NavBar/NavBar';
 import Home from './Components/Home';
 import Services from './Components/Services';
@@ -19,9 +19,7 @@ function App() {
   }
 
   return (
-    <Router
-      forceRefresh={true}
-    >
+    <Router>
       {/* <Home/> */}
       <Bars isOpen={isOpen} toggle={toggle}
         {...<Route path='*' exact element={<Home/>}/>}
@@ -36,6 +34,7 @@ function App() {
         <Route path='/estimate' exact element={<Estimate/>} />
       </Routes> 
       <Footer/>
+      <useHistory/>
     </Router>
   );
 }
