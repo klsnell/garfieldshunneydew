@@ -19,7 +19,9 @@ function App() {
   }
 
   return (
-    <Router>
+    <Router
+      forceRefresh={true}
+    >
       {/* <Home/> */}
       <Bars isOpen={isOpen} toggle={toggle}
         {...<Route path='*' exact element={<Home/>}/>}

@@ -5,7 +5,10 @@ import { Card, CardBody, CardImg, CardText, Container } from 'reactstrap';
 const Gallery = () => {
     return (
         <div className='gallerydiv'>
-            <h1 className='pagetitle'>Gallery</h1>
+            <h1 className='pagetitle' id='gallerytitle'>Gallery</h1>
+            {/* <div className='gallerytitlebox'>
+                <h3>Scroll Down to See Some Our Work!</h3>
+            </div> */}
             <h2 className='galleryimgtitle'>Stone Work</h2>
             <Container className='gallerycontainer'>
                 {/* <Card className='galleryimgtitle'><h1>Stone Work</h1></Card> */}
