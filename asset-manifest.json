@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/static/css/main.0a50143a.css",
-    "main.js": "/static/js/main.991cb990.js",
+    "main.css": "/static/css/main.a93fe6fe.css",
+    "main.js": "/static/js/main.4cbaf644.js",
     "static/js/787.edd6239b.chunk.js": "/static/js/787.edd6239b.chunk.js",
     "static/media/open desert.jpg": "/static/media/open desert.ec8a9465cfb8dab39cf2.jpg",
     "static/media/Sperle.jpg": "/static/media/Sperle.c0d3b368df90b08e4955.jpg",
@@ -43,12 +43,12 @@
     "static/media/logo.jpg": "/static/media/logo.1be5c9eadbb296cc0924.jpg",
     "static/media/1-1.jpg": "/static/media/1-1.f11626b81e265edbf387.jpg",
     "index.html": "/index.html",
-    "main.0a50143a.css.map": "/static/css/main.0a50143a.css.map",
-    "main.991cb990.js.map": "/static/js/main.991cb990.js.map",
+    "main.a93fe6fe.css.map": "/static/css/main.a93fe6fe.css.map",
+    "main.4cbaf644.js.map": "/static/js/main.4cbaf644.js.map",
     "787.edd6239b.chunk.js.map": "/static/js/787.edd6239b.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a50143a.css",
-    "static/js/main.991cb990.js"
+    "static/css/main.a93fe6fe.css",
+    "static/js/main.4cbaf644.js"
   ]
 }
