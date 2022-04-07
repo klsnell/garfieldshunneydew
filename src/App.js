@@ -83,7 +83,7 @@ function App() {
         <Route path='/estimate' exact element={<Estimate/>} />
       </Routes> 
       <Footer/>
-      <useHistory/>
+      {/* <useHistory/> */}
     </Router>
   );
 }

@@ -4,56 +4,67 @@ import { FaWater, FaTree, FaRandom, FaLeaf, FaGripHorizontal, FaAngleDoubleUp } 
 
 const Services = () => {
     return (
-        <div className='servicediv' id='top' id='/services'>
+        <div className='servicediv' id='top' >
             <h1 className='pagetitle'>Services Provided</h1>
 
             <Container className='servicebtncontainer' >
                 {/* <Card> */}
 
 
-                <a className='servicelink' href='#irrigation'><button className='servicebtn'>
-                    <FaWater />
-                    <h2 id='btntext'>Irrigation</h2>
-                </button></a>
+                {/* <a className='servicelink' href='#/services#/irrigation'>
+                    <button className='servicebtn'>
+                        <FaWater />
+                        <h2 id='btntext'>Irrigation</h2>
+                    </button>
+                </a>
 
 
 
-                <a className='servicelink' href='#trees'><button className='servicebtn'>
-                    <FaTree />
-                    <h2 id='btntext'>Trees</h2>
-                </button></a>
+                <a className='servicelink' href='#trees'>
+                    <button className='servicebtn'>
+                        <FaTree />
+                        <h2 id='btntext'>Trees</h2>
+                    </button>
+                </a>
 
 
 
-                <a className='servicelink' href='#lawn'><button className='servicebtn'>
-                    <FaLeaf />
-                    <h2 id='btntext'>Lawn Services</h2>
-                </button></a>
+                <a className='servicelink' href='#lawn'>
+                    <button className='servicebtn'>
+                        <FaLeaf />
+                        <h2 id='btntext'>Lawn Services</h2>
+                    </button>
+                </a>
 
 
 
-                <a className='servicelink' href='#rock'><button className='servicebtn'>
-                    <FaGripHorizontal />
-                    <h2 id='btntext'>Stone & Gravel</h2>
-                </button></a>
+                <a className='servicelink' href='#rock'>
+                    <button className='servicebtn'>
+                        <FaGripHorizontal />
+                        <h2 id='btntext'>Stone & Gravel</h2>
+                    </button>
+                </a>
 
 
 
-                <a className='servicelink' href='#misc'><button className='servicebtn'>
-                    <FaRandom />
-                    <h2 id='btntext'>Miscellaneous</h2>
-                </button></a>
+                <a className='servicelink' href='#misc'>
+                    <button className='servicebtn'>
+                        <FaRandom />
+                        <h2 id='btntext'>Miscellaneous</h2>
+                    </button>
+                </a> */}
 
 
 
                 {/* </Card> */}
             </Container>
 
-            <h3>Click a service or scroll down to see what we do!</h3>
+            {/* <h3>Click a service or scroll down to see what we do!</h3> */}
+            <h3>Scroll down to see what we do!</h3>
 
             <Card className='servicecard'>
                 <CardBody>
-                    <CardTitle className='cardtitle' id='irrigation'>Irrigation</CardTitle>
+                    <CardTitle className='cardtitle' id='/irrigation'>Irrigation</CardTitle>
                     <CardText>Irrigation System Repairs</CardText>
                     <CardText>Irrigation Spring Start-ups</CardText>
                     <CardText>Irrigation Winterization</CardText>
@@ -65,7 +76,7 @@ const Services = () => {
 
             <Card className='servicecard1'>
                 <CardBody>
-                    <CardTitle className='cardtitle' id='trees'>Tree Services</CardTitle>
+                    <CardTitle className='cardtitle' id='#trees'>Tree Services</CardTitle>
                     <CardText>Tree Trimming Above 8'</CardText>
                     <CardText>Selective Tree Removals</CardText>
                     <CardText>New Plant/Tree Installation</CardText>
@@ -76,7 +87,7 @@ const Services = () => {
 
             <Card className='servicecard'>
                 <CardBody>
-                    <CardTitle className='cardtitle' id='lawn'>Lawn Service and Maintenance</CardTitle>
+                    <CardTitle className='cardtitle' id='#lawn'>Lawn Service and Maintenance</CardTitle>
                     <CardText>Artificial Turf installation</CardText>
                     <CardText>Raised Planter Beds</CardText>
                     <CardText>Lawn Aeration and Seeding</CardText>
@@ -93,7 +104,7 @@ const Services = () => {
 
             <Card className='servicecard1'>
                 <CardBody>
-                    <CardTitle className='cardtitle' id='rock'>Stone Work and Gravel</CardTitle>
+                    <CardTitle className='cardtitle' id='#rock'>Stone Work and Gravel</CardTitle>
                     <CardText>Paver Driveways, Walkways, and Patios</CardText>
                     <CardText>Retaining Walls</CardText>
                     <CardText>Flagstone Installation</CardText>
@@ -107,7 +118,7 @@ const Services = () => {
 
             <Card className='servicecard'>
                 <CardBody>
-                    <CardTitle className='cardtitle' id='misc'>Miscellaneous</CardTitle>
+                    <CardTitle className='cardtitle' id='#misc'>Miscellaneous</CardTitle>
                     <CardText>Outdoor Fireplaces</CardText>
                     <CardText>Gazebo/Pergola Installations</CardText>
                     <CardText>Dry River Bed Installations</CardText>
