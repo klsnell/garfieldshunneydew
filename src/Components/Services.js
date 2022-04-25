@@ -11,7 +11,7 @@ const Services = () => {
                 {/* <Card> */}
 
 
-                {/* <a className='servicelink' href='#/services#/irrigation'>
+                {/* <a className='servicelink' href='#/services/irrigation'>
                     <button className='servicebtn'>
                         <FaWater />
                         <h2 id='btntext'>Irrigation</h2>
@@ -20,7 +20,7 @@ const Services = () => {
 
 
 
-                <a className='servicelink' href='#trees'>
+                <a className='servicelink' href='#/trees'>
                     <button className='servicebtn'>
                         <FaTree />
                         <h2 id='btntext'>Trees</h2>
@@ -75,8 +75,8 @@ const Services = () => {
             </Card>
 
             <Card className='servicecard1'>
-                <CardBody>
-                    <CardTitle className='cardtitle' id='#trees'>Tree Services</CardTitle>
+                <CardBody >
+                    <CardTitle className='cardtitle' id='/trees'>Tree Services</CardTitle>
                     <CardText>Tree Trimming Above 8'</CardText>
                     <CardText>Selective Tree Removals</CardText>
                     <CardText>New Plant/Tree Installation</CardText>
