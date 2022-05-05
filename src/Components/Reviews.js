@@ -16,6 +16,34 @@ const items = [
             <FaStar className='star' />
             <FaStar className='star' />
             <br/>
+            <CardText className='reviewtext'>"We shopped around about 3-4 businesses before deciding on them! Garfield’s was by far the most honest with us on what needed to get done and worked with us on our vision. Kept us updated about the process the whole time. I love how it turned out and would highly recommend!"</CardText>
+            <CardTitle className='reviewname'>Jennifer W.</CardTitle>
+        </CardBody>
+    </Card>,
+
+
+<Card className='reviewcard'>
+        <CardBody>
+        <FaStar className='star' />
+            <FaStar className='star' />
+            <FaStar className='star' />
+            <FaStar className='star' />
+            <FaStar className='star' />
+            <br/>
+            <CardText className='reviewtext'>"We had Garfield remove old dated stone gravel covering our side yard and replace with cobblestone pavers that match our house paint perfectly. This was a major project as Rick and crew removed 60 tons of dirt, and replaced with A/B rock and dirt, then a layer of sand before pavers went down. We are very happy with the work, and the crew was very easy to work with. The group briefed me daily on what was going to happen the next day, and never took a day off until it was complete. We would recommend Rick and Nicole to anyone looking for this type of work."</CardText>
+            <CardTitle className='reviewname'>Charley J.</CardTitle>
+        </CardBody>
+    </Card>,
+
+
+    <Card className='reviewcard'>
+        <CardBody>
+        <FaStar className='star' />
+            <FaStar className='star' />
+            <FaStar className='star' />
+            <FaStar className='star' />
+            <FaStar className='star' />
+            <br/>
             <CardText className='reviewtext'>"I hire them every year to spray for weeds.This keeps my yard weed free the entire year. I also recently had them install artificial grass in the backyard. It turned out amazing. Really impressed with this company and their work."</CardText>
             <CardTitle className='reviewname'>Yvonne A.</CardTitle>
         </CardBody>
