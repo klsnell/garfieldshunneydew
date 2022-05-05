@@ -48,7 +48,7 @@
 }
 
 
-
+/*-----------------------------------------------------------------------------------------------*/
 
 
 
@@ -118,7 +118,7 @@
 }
 
 
-
+/*-----------------------------------------------------------------------------------------------*/
 
 
 /*Services Page*/
@@ -140,6 +140,11 @@
   align-items: flex-start;
   justify-content: space-around;
 }
+/* .servicetop{
+  background-color: rgba(102, 102, 102, 0.362);
+  margin-top:-2%;
+  margin-bottom:-3%;
+} */
 .servicebtn{
   font-size: 3rem;
   padding:4%;
@@ -198,7 +203,7 @@
 }
 
 
-
+/*-----------------------------------------------------------------------------------------------*/
 
 
 /*Contact Page*/
@@ -233,7 +238,7 @@
   text-decoration: none;
 }
 
-
+/*-----------------------------------------------------------------------------------------------*/
 
 /*Estimate Page*/
 .estimatetitle{
@@ -283,7 +288,7 @@
   text-decoration: underline;
 }
 
-
+/*-----------------------------------------------------------------------------------------------*/
 
 
 /*Footer*/
@@ -352,7 +357,7 @@
   font-size:2rem;
 }
 
-
+/*-----------------------------------------------------------------------------------------------*/
 
 
 /*Reviews*/
@@ -364,7 +369,9 @@
 }
 .reviewcard{
   width:90%;
+  font-size:1.2rem;
   border:4px solid darkorange;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
   color:darkorange;
   padding:5%;
   margin-top:5%;
@@ -402,5 +409,9 @@
   padding:2%;
 }
 .review:hover{
+  color:black;
+}
+
+.alice-carousel__dots{
   color:black;
 }

@@ -5,6 +5,7 @@ import { FaWater, FaTree, FaRandom, FaLeaf, FaGripHorizontal, FaAngleDoubleUp } 
 const Services = () => {
     return (
         <div className='servicediv' id='top' >
+            <div className='servicetop'>
             <h1 className='pagetitle'>Services Provided</h1>
 
             <Container className='servicebtncontainer' >
@@ -61,6 +62,7 @@ const Services = () => {
 
             {/* <h3>Click a service or scroll down to see what we do!</h3> */}
             <h3>Scroll down to see what we do!</h3>
+            </div>
 
             <Card className='servicecard'>
                 <CardBody>

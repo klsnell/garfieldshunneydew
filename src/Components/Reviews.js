@@ -138,7 +138,9 @@ const Reviews = () => {
             autoPlayInterval={5000}
             infinite={true}
             disableButtonsControls={true}
+            
         />
+        
     )
 }
 
