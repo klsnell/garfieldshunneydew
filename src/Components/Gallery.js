@@ -12,6 +12,46 @@ const Gallery = () => {
             <h2 className='galleryimgtitle'>Stone Work</h2>
             <Container className='gallerycontainer'>
                 {/* <Card className='galleryimgtitle'><h1>Stone Work</h1></Card> */}
+
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/0001.jpg')}>
+                    </CardImg>
+                </Card>
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/0002.jpg')}>
+                    </CardImg>
+                </Card>
+
+
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/001.jpg')}>
+                    </CardImg>
+                </Card>
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/002.jpg')}>
+                    </CardImg>
+                </Card>
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/003.jpg')}>
+                    </CardImg>
+                </Card>
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/004.jpg')}>
+                    </CardImg>
+                </Card>
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/005.jpg')}>
+                    </CardImg>
+                </Card>
+
+
                 <Card>
                     <CardImg className='galleryimg'
                         src={require('../assets/27.png')}>
@@ -122,49 +162,6 @@ const Gallery = () => {
             </Container>
 
 
-
-
-            <h2 className='galleryimgtitle'>Irrigation</h2>
-            <Container className='gallerycontainer'>
-                {/* <Card className='galleryimgtitle'><h1>Irrigation</h1></Card> */}
-                <Card>
-                    <CardImg className='galleryimg'
-                        src={require('../assets/23.jpg')}>
-                    </CardImg>
-                </Card>
-
-                <Card>
-                    <CardImg className='galleryimg'
-                        src={require('../assets/irrigation.jpg')}>
-                    </CardImg>
-                </Card>
-
-            </Container>
-
-
-
-
-            <h2 className='galleryimgtitle'>Trees</h2>
-            <Container className='gallerycontainer'>
-                {/* <Card className='galleryimgtitle'><h1>Trees</h1></Card> */}
-
-                <Card>
-                    <CardImg className='galleryimg'
-                        src={require('../assets/20.jpg')}>
-                    </CardImg>
-                </Card>
-                
-                <Card>
-                    <CardImg className='galleryimg'
-                        src={require('../assets/21.jpg')}>
-                    </CardImg>
-                </Card>
-
-            </Container>
-
-
-
-
             <h2 className='galleryimgtitle'>Lawn Services</h2>
             <Container className='gallerycontainer1'>
                 {/* <Card className='galleryimgtitle'><h1>Lawn Services</h1></Card> */}
@@ -249,7 +246,67 @@ const Gallery = () => {
                         </CardImg>
                 </Card>
 
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/01.jpg')}>
+                        </CardImg>
+                </Card>
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/02.jpg')}>
+                        </CardImg>
+                </Card>
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/03.jpg')}>
+                        </CardImg>
+                </Card>
+
             </Container>
+
+
+            <h2 className='galleryimgtitle'>Irrigation</h2>
+            <Container className='gallerycontainer'>
+                {/* <Card className='galleryimgtitle'><h1>Irrigation</h1></Card> */}
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/23.jpg')}>
+                    </CardImg>
+                </Card>
+
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/irrigation.jpg')}>
+                    </CardImg>
+                </Card>
+
+            </Container>
+
+
+
+
+            <h2 className='galleryimgtitle'>Trees</h2>
+            <Container className='gallerycontainer'>
+                {/* <Card className='galleryimgtitle'><h1>Trees</h1></Card> */}
+
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/20.jpg')}>
+                    </CardImg>
+                </Card>
+                
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/21.jpg')}>
+                    </CardImg>
+                </Card>
+
+            </Container>
+
+
+
+
+            
         </div>
     )
 }
