@@ -167,6 +167,33 @@ const Gallery = () => {
                 {/* <Card className='galleryimgtitle'><h1>Lawn Services</h1></Card> */}
                 <Card>
                     <CardImg className='galleryimg'
+                        src={require('../assets/04.jpg')}>
+                    </CardImg>
+                </Card>
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/05.jpg')}>
+                    </CardImg>
+                </Card>
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/06.jpg')}>
+                    </CardImg>
+                </Card>
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/07.jpg')}>
+                    </CardImg>
+                </Card>
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/08.jpg')}>
+                    </CardImg>
+                </Card>
+
+
+                <Card>
+                    <CardImg className='galleryimg'
                         src={require('../assets/18.jpg')}>
                     </CardImg>
                 </Card>
