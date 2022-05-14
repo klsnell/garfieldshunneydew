@@ -251,42 +251,42 @@ const Gallery = () => {
                         src={require('../assets/1-0.jpg')}>
                     </CardImg>
                 </Card>
-                
+
                 <Card>
                     <CardImg className='galleryimg'
                         src={require('../assets/tramp4.jpg')}>
-                        </CardImg>
+                    </CardImg>
                 </Card>
                 <Card>
                     <CardImg className='galleryimg'
                         src={require('../assets/tramp3.jpg')}>
-                        </CardImg>
+                    </CardImg>
                 </Card>
                 <Card>
                     <CardImg className='galleryimg'
                         src={require('../assets/tramp2.jpg')}>
-                        </CardImg>
+                    </CardImg>
                 </Card>
                 <Card>
                     <CardImg className='galleryimg'
                         src={require('../assets/tramp1.jpg')}>
-                        </CardImg>
+                    </CardImg>
                 </Card>
 
                 <Card>
                     <CardImg className='galleryimg'
                         src={require('../assets/01.jpg')}>
-                        </CardImg>
+                    </CardImg>
                 </Card>
                 <Card>
                     <CardImg className='galleryimg'
                         src={require('../assets/02.jpg')}>
-                        </CardImg>
+                    </CardImg>
                 </Card>
                 <Card>
                     <CardImg className='galleryimg'
                         src={require('../assets/03.jpg')}>
-                        </CardImg>
+                    </CardImg>
                 </Card>
 
             </Container>
@@ -321,7 +321,7 @@ const Gallery = () => {
                         src={require('../assets/20.jpg')}>
                     </CardImg>
                 </Card>
-                
+
                 <Card>
                     <CardImg className='galleryimg'
                         src={require('../assets/21.jpg')}>
@@ -333,7 +333,7 @@ const Gallery = () => {
 
 
 
-            
+
         </div>
     )
 }
