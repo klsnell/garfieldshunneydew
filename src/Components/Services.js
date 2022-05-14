@@ -73,7 +73,7 @@ const Services = () => {
                     <CardText>New Irrigation System Installs</CardText>
                     <CardImg className='cardimg' width='500vw' src={require('../assets/23.jpg')} />
                 </CardBody>
-                <a href='#top'><FaAngleDoubleUp className='uparrow' /></a>
+                {/* <a href='#top'><FaAngleDoubleUp className='uparrow' /></a> */}
             </Card>
 
             <Card className='servicecard1'>
@@ -84,7 +84,7 @@ const Services = () => {
                     <CardText>New Plant/Tree Installation</CardText>
                     <CardImg className='cardimg' width='500vw' src={require('../assets/22.jpg')} />
                 </CardBody>
-                <a href='#top'><FaAngleDoubleUp className='uparrow' /></a>
+                {/* <a href='#top'><FaAngleDoubleUp className='uparrow' /></a> */}
             </Card>
 
             <Card className='servicecard'>
@@ -101,7 +101,7 @@ const Services = () => {
                     <CardText>Pre & Post Emergent Weed Spray</CardText>
                     <CardImg className='cardimg' width='500vw' src={require('../assets/36.jpg')} />
                 </CardBody>
-                <a href='#top'><FaAngleDoubleUp className='uparrow' /></a>
+                {/* <a href='#top'><FaAngleDoubleUp className='uparrow' /></a> */}
             </Card>
 
             <Card className='servicecard1'>
@@ -115,7 +115,7 @@ const Services = () => {
                     <CardText>Border Edge Stone Installs</CardText>
                     <CardImg className='cardimg' width='500vw' src={require('../assets/28.png')} />
                 </CardBody>
-                <a href='#top'><FaAngleDoubleUp className='uparrow' /></a>
+                {/* <a href='#top'><FaAngleDoubleUp className='uparrow' /></a> */}
             </Card>
 
             <Card className='servicecard'>
@@ -129,7 +129,7 @@ const Services = () => {
                     <CardText>Single Story Gutter Clean-outs</CardText>
                     <CardImg className='cardimg' width='500vw' src={require('../assets/truck.jpg')} />
                 </CardBody>
-                <a href='#top'><FaAngleDoubleUp className='uparrow' /></a>
+                {/* <a href='#top'><FaAngleDoubleUp className='uparrow' /></a> */}
             </Card>
         </div>
     )
