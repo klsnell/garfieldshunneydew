@@ -291,6 +291,30 @@ const Gallery = () => {
 
             </Container>
 
+            <h2 className='galleryimgtitle'>Outdoor Kitchens</h2>
+            <Container className='gallerycontainer'>
+                {/* <Card className='galleryimgtitle'><h1>Trees</h1></Card> */}
+
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/39.jpg')}>
+                    </CardImg>
+                </Card>
+
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/40.jpg')}>
+                    </CardImg>
+                </Card>
+
+                <Card>
+                    <CardImg className='galleryimg'
+                        src={require('../assets/41.jpg')}>
+                    </CardImg>
+                </Card>
+
+            </Container>
+
 
             <h2 className='galleryimgtitle'>Irrigation</h2>
             <Container className='gallerycontainer'>
@@ -329,9 +353,6 @@ const Gallery = () => {
                 </Card>
 
             </Container>
-
-
-
 
 
         </div>
